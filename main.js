@@ -116,6 +116,6 @@ var equalize = {
 	}
 };
 
-equalize.init({
-	minScreenWidth: 500
-});
+// equalize.init({
+// 	minScreenWidth: 500
+// });
